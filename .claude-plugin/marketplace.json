@@ -1,0 +1,5 @@
+{
+  "name": "token-visualization-mod",
+  "owner": { "name": "Hornbaek" },
+  "plugins": [{ "name": "usage-band", "source": "./" }]
+}

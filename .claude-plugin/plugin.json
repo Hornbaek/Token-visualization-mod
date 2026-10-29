@@ -1,0 +1,6 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "A small band above the prompt showing weekly usage left and tokens used this session.",
+  "types": "./types/index.d.ts"
+}
